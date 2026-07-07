@@ -59,7 +59,7 @@
    ```
 
 4. Скачайте веса модели YOLO:
-   * Скачайте файл `yolo26x-seg.pt` по [этой ссылке](ССЫЛКА_НА_ВАШ_GDRIVE_ИЛИ_RELEASES)
+   * Скачайте файл `yolo26x-seg.pt` по [этой ссылке на Google disk](https://drive.google.com/file/d/1MW3fL-T0LeR3BGsW9jIBNhFtK4ka1YaS/view?usp=sharing)
    * Поместите его в корень проекта.
 
 5. Запустите приложение:
@@ -82,4 +82,3 @@
 * Кажаненко Андрей 
 * Веремеенко Кирилл
 ```
-***
