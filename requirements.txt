@@ -1,0 +1,22 @@
+# Image Annotator dependencies
+#
+# Standard install (CPU-only PyTorch):
+#   pip install -r requirements.txt
+#
+# CUDA-enabled install (recommended for AI annotation on NVIDIA GPU):
+#   1. Install PyTorch from the CUDA wheel index first:
+#        pip install --index-url https://download.pytorch.org/whl/cu121 torch torchvision
+#   2. Then install everything else:
+#        pip install -r requirements.txt
+#
+# Tested with Python 3.11.9 on Windows. Tested versions in comments.
+
+PySide6>=6.6,<6.8           # 6.7.3 tested
+numpy>=1.26,<3.0            # 2.4.6 tested
+opencv-python>=4.9          # 4.13.0 tested
+Pillow>=10.0                # 12.2.0 tested
+torch>=2.2                  # 2.5.1+cu121 tested
+torchvision>=0.17           # 0.20.1+cu121 tested
+ultralytics>=8.1            # 8.4.56 tested (YOLOv8 segmentation)
+scikit-image>=0.22          # 0.26.0 tested (skeletonize, frangi)
+scipy>=1.11                 # 1.17.1 tested (distance_transform_edt)
