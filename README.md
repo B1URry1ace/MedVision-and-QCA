@@ -70,11 +70,13 @@
 ## 📸 Скриншоты работы
 
 * <img width="819" height="885" alt="image" src="https://github.com/user-attachments/assets/0357fda4-3742-46e3-ada4-70c55c60ed18" />
-* - Панель разметки и фильтры.
+ - Панель разметки и фильтры.
+
 * <img width="1098" height="982" alt="12312312" src="https://github.com/user-attachments/assets/efa88991-c74a-43ae-a595-1cf416c03504" />
-* - Профиль диаметров и расчет стеноза.
+ - Профиль диаметров и расчет стеноза.
+
 * <img width="890" height="805" alt="image" src="https://github.com/user-attachments/assets/b5c4b8b1-464a-41a8-81e7-612f9814dbb0" />
-* - Пример работы метрик.
+ - Пример работы метрик.
 
 ## 👥 Авторы
 * Кажаненко Андрей 
